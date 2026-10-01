@@ -13,7 +13,7 @@ def dividir(a, b):
     return a / b
 
 def calculadora():
-    print("=== Calculadora Simples ===")
+    print("=== Calculadora Simples de matemática ===")
     print("1. Soma (+)")
     print("2. Subtração (-)")
     print("3. Multiplicação (*)")
